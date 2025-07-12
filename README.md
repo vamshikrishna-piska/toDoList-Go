@@ -13,7 +13,7 @@ A lightweight command-line To Do List application written in Go that lets you ad
 --------------------------------------------------------
 
 ## Clone
-git clone https://github.com/your-username/toDoList-Go.git
+git clone https://github.com/vamshikrishna-piska/toDoList-Go.git
 cd toDoList-Go
 
 ## Examples
